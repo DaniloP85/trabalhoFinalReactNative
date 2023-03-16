@@ -27,13 +27,13 @@ Application for displaying information about movies and series
 * npx react-native start --reset-cache
 * npx react-native run-ios
 
-## Contributing
+# Contributing
 
 Please read [CONTRIBUTING](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-## License
+# License
 
 This project is licensed under the MT License - see the [LICENSE](LICENSE.md) file for details
 
-## Acknowledgments
+# Acknowledgments
 
 [adonaipinheiro](https://github.com/adonaipinheiro)
