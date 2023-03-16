@@ -17,12 +17,12 @@ Application for displaying information about movies and series
 | ![.](images/ios.gif)| ![.](images/android.gif) |
 
 
-## 🖖 Start Android
+# 🖖 Start Android
 
 * npx react-native start --reset-cache
 * npx react-native run-android
 
-## 🖖 Start iOS
+# 🖖 Start iOS
 
 * npx react-native start --reset-cache
 * npx react-native run-ios
