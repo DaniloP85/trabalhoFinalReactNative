@@ -2,22 +2,30 @@
 
 Application for displaying information about movies and series
 
-# font
-
+# 📋 Prerequisites
 ```
-https://imagemfilmes.com.br/filmes
+✅ react-native
+✅ jdk 11
+✅ npm / yarn
+✅ node
+✅ visual studio code / ide de preferencia
+✅ android studio / xcode
 ```
-
 # Screens
 |iOS|Android|
 | --- | ---- |
-| ![.](images/ios.png)| ![.](images/android.png) |
+| ![.](images/ios.gif)| ![.](images/android.gif) |
 
 
-## Repo
-```
-git@github.com:DaniloP85/trabalhoFinalReactNative.git
-```
+## 🖖 Start Android
+
+* npx react-native start --reset-cache
+* npx react-native run-android
+
+## 🖖 Start iOS
+
+* npx react-native start --reset-cache
+* npx react-native run-ios
 
 ## Contributing
 
@@ -27,3 +35,5 @@ Please read [CONTRIBUTING](CONTRIBUTING.md) for details on our code of conduct, 
 This project is licensed under the MT License - see the [LICENSE](LICENSE.md) file for details
 
 ## Acknowledgments
+
+[adonaipinheiro](https://github.com/adonaipinheiro)
